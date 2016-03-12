@@ -8,25 +8,5 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello");
 
-
-        //fix bag
-        print();
     }
-
-    private static void print() {
-        System.out.println("Hi");
-    }
-
-    private void omnom() {}
-
-    private void server() {
-
-    }
-
-    private void client() {
-        
-    }
-
-    // helooo helloooo helllooo helooooo
-    
 }
