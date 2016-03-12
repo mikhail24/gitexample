@@ -16,4 +16,8 @@ public class Main {
     private static void print() {
         System.out.println("Hi");
     }
+
+    private void lolol() {
+        System.out.println("Hello");
+    }
 }
