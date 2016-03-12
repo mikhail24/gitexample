@@ -8,6 +8,12 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello");
 
+
         //fix bag
+        print();
+    }
+
+    private static void print() {
+        System.out.println("Hi");
     }
 }
