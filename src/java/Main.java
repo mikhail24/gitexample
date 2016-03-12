@@ -18,5 +18,9 @@ public class Main {
     }
 
     private void omnom() {}
+
+    private void server() {
+        
+    }
     
 }
